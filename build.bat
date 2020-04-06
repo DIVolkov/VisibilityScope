@@ -1,0 +1,1 @@
+mingw32-make 2>err.txt
